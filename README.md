@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0876-middle-of-the-linked-list) |
+| [4030-check-ascii-palindromic](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/4030-check-ascii-palindromic) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [4030-check-ascii-palindromic](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/4030-check-ascii-palindromic) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4030-check-ascii-palindromic](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/4030-check-ascii-palindromic) |
 <!---LeetCode Topics End-->

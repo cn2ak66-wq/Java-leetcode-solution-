@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0682-baseball-game) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0496-next-greater-element-i) |

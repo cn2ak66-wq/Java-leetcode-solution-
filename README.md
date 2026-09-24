@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0020-valid-parentheses) |
 | [4030-check-ascii-palindromic](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/4030-check-ascii-palindromic) |
 ## Bit Manipulation
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0739-daily-temperatures) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0933-number-of-recent-calls) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

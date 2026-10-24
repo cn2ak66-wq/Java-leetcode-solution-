@@ -4,6 +4,7 @@ class RecentCounter {
     private int rear = 0;
     public RecentCounter() {
     }
+    
     public int ping(int t) {
         queue[rear] = t;
         rear++;

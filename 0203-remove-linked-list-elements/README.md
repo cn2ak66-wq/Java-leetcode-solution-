@@ -7,12 +7,10 @@
 <strong>Output:</strong> [1,2,3,4,5]
 </pre>
 <p><strong class="example">Example 2:</strong></p>
-
 <pre>
 <strong>Input:</strong> head = [], val = 1
 <strong>Output:</strong> []
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>

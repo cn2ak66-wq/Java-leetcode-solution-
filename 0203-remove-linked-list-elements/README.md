@@ -12,12 +12,10 @@
 <strong>Output:</strong> []
 </pre>
 <p><strong class="example">Example 3:</strong></p>
-
 <pre>
 <strong>Input:</strong> head = [7,7,7,7], val = 7
 <strong>Output:</strong> []
 </pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

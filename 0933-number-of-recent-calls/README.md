@@ -6,12 +6,9 @@
 	<li><code>RecentCounter()</code> Initializes the counter with zero recent requests.</li>
 	<li><code>int ping(int t)</code> Adds a new request at time <code>t</code>, where <code>t</code> represents some time in milliseconds, and returns the number of requests that have happened in the inclusive range <code>[t - 3000, t]</code>, that is, the new request plus every earlier request that is no more than <code>3000</code> milliseconds older.</li>
 </ul>
-
 <p>It is <strong>guaranteed</strong> that every call to <code>ping</code> uses a strictly larger value of <code>t</code> than the previous call.</p>
-
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
 <pre>
 <strong>Input</strong>
 [&quot;RecentCounter&quot;, &quot;ping&quot;, &quot;ping&quot;, &quot;ping&quot;, &quot;ping&quot;]

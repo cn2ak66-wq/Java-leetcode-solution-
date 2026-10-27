@@ -14,12 +14,10 @@
 <strong>Output:</strong> [2,1]
 </pre>
 <p><strong class="example">Example 3:</strong></p>
-
 <pre>
 <strong>Input:</strong> head = []
 <strong>Output:</strong> []
 </pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

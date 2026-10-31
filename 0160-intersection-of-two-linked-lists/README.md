@@ -3,11 +3,8 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2021/03/05/160_statement.png" style="width: 500px; height: 162px;" />
 <p>The test cases are generated such that there are no cycles anywhere in the entire linked structure.</p>
 <p><strong>Note</strong> that the linked lists must <strong>retain their original structure</strong> after the function returns.</p>
-
 <p><strong>Custom Judge:</strong></p>
-
 <p>The inputs to the <strong>judge</strong> are given as follows (your program is <strong>not</strong> given these inputs):</p>
-
 <ul>
 	<li><code>intersectVal</code> - The value of the node where the intersection occurs. This is <code>0</code> if there is no intersected node.</li>
 	<li><code>listA</code> - The first linked list.</li>
@@ -15,7 +12,6 @@
 	<li><code>skipA</code> - The number of nodes to skip ahead in <code>listA</code> (starting from the head) to get to the intersected node.</li>
 	<li><code>skipB</code> - The number of nodes to skip ahead in <code>listB</code> (starting from the head) to get to the intersected node.</li>
 </ul>
-
 <p>The judge will then create the linked structure based on these inputs and pass the two heads, <code>headA</code> and <code>headB</code> to your program. If you correctly return the intersected node, then your solution will be <strong>accepted</strong>.</p>
 
 <p>&nbsp;</p>

@@ -22,7 +22,6 @@ The result of the merge is [<u>1</u>,<u>2</u>,2,<u>3</u>,5,6] with the underline
 <strong>Explanation:</strong> The arrays we are merging are [1] and [].
 The result of the merge is [1].
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>

@@ -58,7 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
-| ------- |
+| ------- | 
 | [0141-linked-list-cycle](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0141-linked-list-cycle) |
 ## Math
 |  | 

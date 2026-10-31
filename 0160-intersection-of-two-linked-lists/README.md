@@ -33,7 +33,6 @@ From the head of A, it reads as [4,1,8,4,5]. From the head of B, it reads as [5,
 <strong>Explanation:</strong> The intersected node&#39;s value is 2 (note that this must not be 0 if the two lists intersect).
 From the head of A, it reads as [1,9,1,2,4]. From the head of B, it reads as [3,2,4]. There are 3 nodes before the intersected node in A; There are 1 node before the intersected node in B.
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/03/05/160_example_3.png" style="width: 300px; height: 189px;" />
 <pre>
@@ -42,10 +41,8 @@ From the head of A, it reads as [1,9,1,2,4]. From the head of B, it reads as [3,
 <strong>Explanation:</strong> From the head of A, it reads as [2,6,4]. From the head of B, it reads as [1,5]. Since the two lists do not intersect, intersectVal must be 0, while skipA and skipB can be arbitrary values.
 Explanation: The two lists do not intersect, so return null.
 </pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li>The number of nodes of <code>listA</code> is in the <code>m</code>.</li>
 	<li>The number of nodes of <code>listB</code> is in the <code>n</code>.</li>

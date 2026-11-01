@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
+|  | 
 | ------- |
 | [0001-two-sum](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0209-minimum-size-subarray-sum) |

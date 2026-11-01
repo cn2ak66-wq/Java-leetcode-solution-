@@ -12,7 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0739-daily-temperatures) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-## Sliding Window
+## Sliding Window 
 |  | 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0209-minimum-size-subarray-sum) |

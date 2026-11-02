@@ -24,7 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  | 
-| ------- |
+| ------- | 
 | [0209-minimum-size-subarray-sum](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/cn2ak66-wq/Java-leetcode-solution-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
